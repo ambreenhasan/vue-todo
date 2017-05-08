@@ -1,0 +1,12 @@
+{
+  "name": "todo-list-generator-ambreen",
+  "version": "3.0.0",
+  "description": "Creates todo lists with a header",
+  "main": "Todo.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ambreenhasan",
+  "license": "ISC",
+  "dependencies": {}
+}
